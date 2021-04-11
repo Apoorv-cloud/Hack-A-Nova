@@ -25,7 +25,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```
 
-
 <h2 align="center" id="Inspiration"> :label: Inspiration</h2>
 
 Considering the safety and security of women in India in the recent times, We wanted to give a try from our end to address the issue in a simpler and safer way.
@@ -37,7 +36,6 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
 
 <h2 align="center" id="TechStack"> :label: Tech Stack
 
@@ -51,7 +49,6 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
 
 <h2 align="center" id="Features"> :label: Features</h2>
 
@@ -72,7 +69,6 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
 
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
 

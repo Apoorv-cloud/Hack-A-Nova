@@ -19,14 +19,12 @@
 >> `📌` [Inspiration](#Inspiration)<br>
 >>> `📌` [Tech Stack](#TechStack)<br>
 >>>> `📌` [Features](#Features)<br>
->>>>> `📌` [How to get started](#Howtogetstarted?)<br>
->>>>>> `📌` [Steps to follow ](#Stepstofollow)<br>
->>>>>>> `📌` [Developed By](#DevelopedBy)<br>
->>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
+>>>>> `📌` [Developed By](#DevelopedBy)<br>
+>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
 ```diff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```
-<br><br><br><br><br><br><br><br>
+
 
 <h2 align="center" id="Inspiration"> :label: Inspiration</h2>
 

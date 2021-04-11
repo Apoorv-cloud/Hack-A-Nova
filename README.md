@@ -93,7 +93,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 |<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="4" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/4.png">|<h3 align="center">Defense Dashboard</h3><img width="200" height="400" alt="5" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/5.png">|
 |<h3 align="center">SOS Call</h3><img width="200" height="400" alt="6" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/6.png">|<h3 align="center">Profile</h3><img width="200" height="400" alt="7" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/7.png">|
 |<h3 align="center">Step Counter</h3><img width="200" height="400" alt="8" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/8.png">|<h3 align="center">Location Dashboard</h3><img width="200" height="400" alt="12" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/12.jpg">|
-|<h3 align="center">Quick Access</h3><img width="200" height="400" alt="10" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png">|<h3 align="center">Information Board</h3><img width="400" height="400" alt="9" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/9.png">||
+|<h3 align="center">Quick Access</h3><img width="200" height="400" alt="10" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png">|<h3 align="center">Information Board</h3><img width="200" height="400" alt="9" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/9.png">||
 
 </p>
 

@@ -2,13 +2,13 @@
 
 <h1 align="center"><img width=50% height=50% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png"></h1>
 <h1 align="center">🄳🄸🄵🄴🅂🄰 - Women Security App</h1>
-
+<p align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
-
+</p>
 
 <h2 align="center" id="content"> 🗂 CONTENT:</h2>
 
@@ -84,50 +84,16 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 |||
 |---|---|
-|<h3 align="center">Authentication</h3><img width="1440" alt="Screen Shot 2020-11-21 at 10 00 58 PM" src="https://user-images.githubusercontent.com/56549294/99883797-aa87d800-2c4f-11eb-9bdf-fe080280d319.png">|<h3 align="center">Voice Assistant</h3><img width="1440" alt="Screen Shot 2020-11-21 at 10 00 45 PM" src="https://user-images.githubusercontent.com/56549294/99883798-abb90500-2c4f-11eb-881a-af84d9c75f1e.png">|
-|<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="Screen Shot 2020-11-21 at 10 00 32 PM" src="https://user-images.githubusercontent.com/56549294/99883799-ac519b80-2c4f-11eb-8521-ebd283ce16a0.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="Screen Shot 2020-11-21 at 10 00 20 PM" src="https://user-images.githubusercontent.com/56549294/99883801-acea3200-2c4f-11eb-96b1-aea436439ede.png">|
-|<h3 align="center">Switcher</h3><img width="1440" alt="Screen Shot 2020-11-21 at 10 00 06 PM" src="https://user-images.githubusercontent.com/56549294/99883803-ae1b5f00-2c4f-11eb-8a8e-85493ebd6aaf.png">||
+|<h3 align="center">Authentication</h3><img width="1440" alt="11" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/11.png">|<h3 align="center">Voice Assistant</h3><img width="1440" alt="1" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/1.png">|
+|<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="2" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/2.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="3" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/3.png">|
+|<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="4" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/4.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="5" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/5.png">|
+|<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="6" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/6.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="7" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/7.png">|
+|<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="8" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/8.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="9" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/9.png">|
+|<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="10" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="12" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/12.png">||
+
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
-
-<h2 align="center" id="FeaturesWeDemand"> :star: Features We Demand</h2>
-
-|<h2> 1️⃣ AUTOMATION : Perform Tasks In Background</h2>|
-|---|
-|To make the app robust and self alarming, make it **`auto reactive`** according to some of the **`factors`** depending on `surroundings` listed below:|
-|🔘 Make it **`more active in a particular time range`**(ask usr to set the more cautious timings).|
-|🔘 Consider the situation as **`emergency`** as **`if the shake and vibrations around the device exceeds the fixed limit`**.|
-|🔘 **`SOS without opening app`** in emergency(provide shortcut or gesture)|
-|🔘 **`Auto share sms & mails & WhatsApp messages & live location`** to saved contacts while in emergency|
-|🔘 While the emergency detected **`record the path of the user until situation gets safe`** afterwards and **`keep sharing the location checkpoints in that timespan with the saved contacts`**(like within 5 mins refresh location to generate checkpoint and share automatically)|
-|🔘 **`Auto image capture`** while in emergency and share and save too.|
-
-<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
-<br><br><br><br><br><br><br><br>
-
-## Open Source programs that Sheheroes is a part of:
-
-<p align="center">
- <a>
- <img  width="50%" height="20%" src="https://github.com/anirudhsai20/SheHeroes/raw/main/cross.png">
-
- <img  width="50%" height="20%" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
 
 
-## Contributors:
-### Credit goes to these wonderfull people: ✨
-
-<table>
-	<tr>
-		<td>
-   <a href="https://github.com/shagun25/SheHeroes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shagun25/SheHeroes" />
-</a>
-		</td>
-	</tr>
-</table>
-
-<h1 align="center"><img width=2% height=2% alt="SheHeroes" src="https://user-images.githubusercontent.com/56549294/108184515-5054c100-7131-11eb-83f8-fba6530601d9.png"> 🅂🄷🄴🄷🄴🅁🄾🄴🅂</h1>
+<h1 align="center"><img width=2% height=2% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png.png">🄳🄸🄵🄴🅂🄰</h1>

@@ -3,8 +3,7 @@
 <h1 align="center"><img width=50% height=50% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png"></h1>
 <h1 align="center">🄳🄸🄵🄴🅂🄰 - Women Security App</h1>
 
-<!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
-<p align="center">
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)

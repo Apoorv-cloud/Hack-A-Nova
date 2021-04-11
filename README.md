@@ -99,6 +99,6 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br>
+<br><br>
 
 <h1 align="center"><img width=5% height=5% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png">🄳🄸🄵🄴🅂🄰</h1>

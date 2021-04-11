@@ -20,7 +20,7 @@
 > `📌` [Hack-A-Nova](#Hack-A-Nova)<br>
 >> `📌` [Inspiration](#Inspiration)<br>
 >>> `📌` [Tech Stack](#TechStack)<br>
->>>> `📌` [Features](#Features)<br>
+>>>> `📌` [Unique Features](#UniqueFeatures)<br>
 >>>>> `📌` [Developed By](#DevelopedBy)<br>
 >>>>>> `📌` [ScreenShots](#ScreenShots)<br>
 ```diff
@@ -53,7 +53,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 <br><br><br><br>
 
-<h2 align="center" id="Features"> :label: Features</h2>
+<h2 align="center" id="UniqueFeatures"> :label:Unique Features</h2>
 
   #### Main Features
   

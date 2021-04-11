@@ -4,12 +4,12 @@
 <h1 align="center">🄳🄸🄵🄴🅂🄰 - Women Security App</h1>
 
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
-
+<center>
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
-
+</center>
 
 
 <h2 align="center" id="content"> 🗂 CONTENT:</h2>

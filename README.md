@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img width=50% height=50% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png"></h1>
-<h1 align="center">🅂🄷🄴🄷🄴🅁🄾🄴🅂 - Women Safety App</h1>
+<h1 align="center">🄳🄸🄵🄴🅂🄰 - Women Security App</h1>
 
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
 

@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Difesa</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="google_maps_api">AIzaSyCWk4jh3IxB9OBFyKPJEy74PjSIUBG-36U</string>
+    <string name="title_activity_home_new">HomeNew</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="siren">Play Siren</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="share_location">Share</string>
+    <string name="copy_location">Copy</string>
+    <string name="view_location">View</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="clipboard_error">Failed to copy text to clipboard</string>
+    <string name="getting_location">Getting location…</string>
+    <string name="share_location_via">Share location via</string>
+    <string name="view_location_via">View location via</string>
+
+    <string name="turn_on_GPS">Turn on GPS</string>
+    <string name="permission_denied">GPS permission denied</string>
+
+    <string name="accuracy">Accuracy</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+    <string name="choose_link">Choose a link type</string>
+
+    <string name="always_ask">Ask me every time</string>
+    <string name="googlemaps" translatable="false">Google Maps</string>
+    <string name="openstreetmap" translatable="false">OpenStreetMap</string>
+    <string name="geouri" translatable="false">GeoURI</string>
+
+    <string name="settings">Settings</string>
+    <string name="link_type">Link type</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="take_pic_btn_label">Take photos</string>
+    <string name="front_picture">Front Camera Picture</string>
+    <string name="back_picture">Back Camera Picture</string>
+
+
+    <string name="usernameReg">Username</string>
+
+    <string name="emailReg">Email</string>
+
+    <string name="passwordReg">Password</string>
+
+    <string name="sign_upReg">Sign up</string>
+
+    <string name="sign_inLog">Sign in</string>
+
+    <string name="signin_redirect">Already a member? Sign in!</string>
+
+    <string name="forgot_password">Forgot password?</string>
+
+    <string name="signup_redirect">Don\'t have an account? Register here!</string>
+
+    <string name="start_camera">Start Camera</string>
+
+    <string name="imageview">imageView</string>
+
+    <string name="delete_success">Images was deleted!</string>
+
+    <string name="delete_failure">Image deletion failed</string>
+
+    <string name="saved_message">Image Saved at %1$s</string>
+
+    <string name="not_saved">Image not saved!</string>
+
+    <string name="error">Error finding image</string>
+
+    <string name="go">GO</string>
+
+    <string name="imageview_description">The imageview that contains the emojified picture</string>
+</resources>

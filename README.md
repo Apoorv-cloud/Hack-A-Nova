@@ -35,7 +35,7 @@ Considering the safety and security of women in India in the recent times, We wa
 Looking at the recent trends and the most powerful weapon with the humanity - technology, we planned to use the same to give access to women in serious or dangerous situations to address the issue in a fast and easier way to ensure their security.
 
 
- [Video Description](https://drive.google.com/file/d/1IqV4nTDAD8PjvhigO-51IQvEWMNxjqUw)
+ [Video Description](https://drive.google.com/file/d/1OpZ9HwRcSdz0NoGLkl3JZEFAh_JwJ3SH/view?usp=sharing)
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 <br><br><br><br>

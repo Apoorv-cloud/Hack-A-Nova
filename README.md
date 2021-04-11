@@ -8,9 +8,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 
 
@@ -20,15 +17,13 @@
 ```diff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```
-> `📌` [Cross WinterOfCode 21](#CrossWinterOfCode21)<br>
->> `📌` [Inspiration](#Inspiration)<br>
->>> `📌` [Tech Stack](#TechStack)<br>
->>>> `📌` [Features](#Features)<br>
->>>>> `📌` [How to get started](#Howtogetstarted?)<br>
->>>>>> `📌` [Steps to follow ](#Stepstofollow)<br>
->>>>>>> `📌` [Developed By](#DevelopedBy)<br>
->>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
->>>>>>>>> `📌` [Features We Demand](#FeaturesWeDemand)<br>
+> `📌` [Hack-A-Nova](#Hack-A-Nova)<br>
+>> `📌` [Tech Stack](#TechStack)<br>
+>>> `📌` [Features](#Features)<br>
+>>>> `📌` [How to get started](#Howtogetstarted?)<br>
+>>>>> `📌` [Steps to follow ](#Stepstofollow)<br>
+>>>>>> `📌` [Developed By](#DevelopedBy)<br>
+>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
 ```diff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ```

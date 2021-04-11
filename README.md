@@ -10,6 +10,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
+<br><br><br><br>
 
 <h2 align="center" id="content"> 🗂 CONTENT:</h2>
 
@@ -36,7 +37,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
  [Video Description](https://drive.google.com/file/d/1IqV4nTDAD8PjvhigO-51IQvEWMNxjqUw)
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
+<br><br><br><br>
 
 <h2 align="center" id="TechStack"> :label: Tech Stack
 
@@ -49,7 +50,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 </h2>
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
+<br><br><br><br>
 
 <h2 align="center" id="Features"> :label: Features</h2>
 
@@ -69,7 +70,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
    :point_right: News - To guide the users about self defense techniques<br/>
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
+<br><br><br><br>
 
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
 
@@ -78,6 +79,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
    - [Siddharth Samanta](https://github.com/ArshdeepSahni)
    
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
+<br><br><br><br>
 
 <p align="center">
 
@@ -96,6 +98,6 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-
+<br><br><br><br>
 
 <h1 align="center"><img width=5% height=5% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png">🄳🄸🄵🄴🅂🄰</h1>

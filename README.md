@@ -2,13 +2,13 @@
 
 <h1 align="center"><img width=50% height=50% alt="Difesa" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/logo.png"></h1>
 <h1 align="center">🄳🄸🄵🄴🅂🄰 - Women Security App</h1>
-<p align="center">
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
-</p>
 
 <h2 align="center" id="content"> 🗂 CONTENT:</h2>
 
@@ -78,7 +78,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
    
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
-<br><br><br><br><br><br><br><br>
+<p align="center">
 
 <h2 align="center" id="ScreenShots"> :label: ScreenShots</h2>
 
@@ -91,6 +91,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 |<h3 align="center">Step Counter</h3><img width="200" height="400" alt="8" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/8.png">|<h3 align="center">Location Dashboard</h3><img width="200" height="400" alt="12" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/12.jpg">|
 |<h3 align="center">Quick Access</h3><img width="200" height="400" alt="10" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png">|<h3 align="center">Information Board</h3><img width="200" height="400" alt="9" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/9.png">||
 
+</p>
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 

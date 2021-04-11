@@ -75,9 +75,9 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
 
-   - [Apoorv Maheshwari](https://github.com/shagun25) 
-   - [Stuti Goyal](https://github.com/Charu271)
-   - [Siddharth Samanta](https://github.com/ArshdeepSahni)
+   - [Apoorv Maheshwari](https://github.com/Apoorv-cloud) 
+   - [Stuti Goyal](https://github.com/stuti1402)
+   - [Siddharth Samanta](https://github.com/cyber-sid)
    
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 <br><br><br><br>

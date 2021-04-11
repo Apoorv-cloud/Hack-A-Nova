@@ -84,12 +84,12 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 |||
 |---|---|
-|<h3 align="center">Authentication</h3><img width="400" height="400" alt="11" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/11.jpg">|<h3 align="center">Voice Assistant</h3><img width="200" height="400" alt="1" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/1.png">|
-|<h3 align="center">Emergency Dashboard</h3><img width="200" height="400" alt="2" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/2.png">|<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="3" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/3.png">|
-|<h3 align="center">Emergency Dashboard</h3><img width="200" height="400" alt="4" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/4.png">|<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="5" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/5.png">|
-|<h3 align="center">Emergency Dashboard</h3><img width="200" height="400" alt="6" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/6.png">|<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="7" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/7.png">|
-|<h3 align="center">Emergency Dashboard</h3><img width="200" height="400" alt="8" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/8.png">|<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="9" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/9.png">|
-|<h3 align="center">Emergency Dashboard</h3><img width="200" height="400" alt="10" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png">|<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="12" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/12.jpg">||
+|<h3 align="center">Splash Screen</h3><img width="200" height="400" alt="11" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/11.jpg">|<h3 align="center">Login</h3><img width="200" height="400" alt="1" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/1.png">|
+|<h3 align="center">Registeration</h3><img width="200" height="400" alt="2" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/2.png">|<h3 align="center">Emergency Dashboard</h3><img width="200" height="400" alt="3" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/3.png">|
+|<h3 align="center">Safe Dashboard</h3><img width="200" height="400" alt="4" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/4.png">|<h3 align="center">Defense Dashboard</h3><img width="200" height="400" alt="5" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/5.png">|
+|<h3 align="center">SOS Call</h3><img width="200" height="400" alt="6" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/6.png">|<h3 align="center">Profile</h3><img width="200" height="400" alt="7" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/7.png">|
+|<h3 align="center">Step Counter</h3><img width="200" height="400" alt="8" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/8.png">|<h3 align="center">Location Dashboard</h3><img width="200" height="400" alt="12" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/12.jpg">|
+|<h3 align="center">Quick Access</h3><img width="200" height="400" alt="10" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/10.png">|<h3 align="center">Information Board</h3><img width="200" height="400" alt="9" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/9.png">||
 
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>

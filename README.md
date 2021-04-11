@@ -84,7 +84,7 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
 
 |||
 |---|---|
-|<h3 align="center">Authentication</h3><img width="1440" alt="11" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/11.png">|<h3 align="center">Voice Assistant</h3><img width="1440" alt="1" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/1.png">|
+|<h3 align="center">Authentication</h3><img width=40% height=40% alt="11" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/11.png">|<h3 align="center">Voice Assistant</h3><img width=40% height=40% alt="1" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/1.png">|
 |<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="2" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/2.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="3" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/3.png">|
 |<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="4" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/4.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="5" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/5.png">|
 |<h3 align="center">Emergency Dashboard</h3><img width="1440" alt="6" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/6.png.png">|<h3 align="center">Safe Dashboard</h3><img width="1440" alt="7" src="https://apoorv-cloud.github.io/Hack-A-Nova/ss/7.png">|

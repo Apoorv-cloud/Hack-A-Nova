@@ -8,7 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
-</p>
+
 
 
 <h2 align="center" id="content"> 🗂 CONTENT:</h2>
